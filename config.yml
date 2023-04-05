@@ -15,16 +15,16 @@ theme:
 
 # Configuración Central
 main:
-  title: Mi Nombre # Aca podes poner tu nombre o el de tu producto
+  title: Nachomon # Aca podes poner tu nombre o el de tu producto
 
 # Lista de bloques
 blocks:
   # Estos bloques los podes editar cambiando SOLO el texto que está en blanco
   # Sacale 
 
-  - title: Instagram
-    icon: instagram
-    url: https://www.instagram.com/lacryptaok/
+  - title: Twitter
+    icon: twitter
+    url: https://twitter.com/nachom0n
 
 # - title: Twitter
 #   icon: twitter
