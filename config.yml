@@ -6,11 +6,11 @@ version: 0.3.5 # NO TOCAR
 # Configuración Global
 html:
 # title: Este valor no funciona porque esta comentado
-  title: Links | Mi Nombre # Este es el Título que aparece en la pestaña de navegador
+  title: Nachomon | Links # Este es el Título que aparece en la pestaña de navegador
 
 # Colores de plantilla
 theme:
-  background_color: "#f9fafb"
+  background_color: "#000000"
   # cover_color: "#ff7070"
 
 # Configuración Central
